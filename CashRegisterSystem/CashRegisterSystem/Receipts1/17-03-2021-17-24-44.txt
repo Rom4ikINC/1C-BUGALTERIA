@@ -1,0 +1,3 @@
+Total: 40,2
+The information below is NAME | PRICE | AMOUNT | ID NUMBER IN THE TABLE
+Breve/3.35/12/9

@@ -1,0 +1,3 @@
+Total: 3550
+The information below is NAME | PRICE | AMOUNT | ID NUMBER IN THE TABLE
+Long Black/3.55/1000/5

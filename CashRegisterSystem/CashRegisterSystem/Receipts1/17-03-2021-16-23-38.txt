@@ -1,0 +1,3 @@
+Total: 13,05
+The information below is NAME | PRICE | AMOUNT | ID NUMBER IN THE TABLE
+Black Eye/4.35/3/3

@@ -1,0 +1,3 @@
+Total: 46495,35
+The information below is NAME | PRICE | AMOUNT | ID NUMBER IN THE TABLE
+Caffe Mocha/4.65/9999/1

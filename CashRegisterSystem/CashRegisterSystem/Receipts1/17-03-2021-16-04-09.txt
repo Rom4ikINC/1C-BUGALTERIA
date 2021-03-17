@@ -1,0 +1,4 @@
+Total: 20207,85
+The information below is NAME | PRICE | AMOUNT | ID NUMBER IN THE TABLE
+Espresso/2.15/600/2
+Espresso/2.15/8799/2

@@ -1,0 +1,10 @@
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\bin\Debug\CashRegisterSystem.exe.config
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\bin\Debug\CashRegisterSystem.exe
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\bin\Debug\CashRegisterSystem.pdb
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\obj\Debug\CashRegisterSystem.csprojAssemblyReference.cache
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\obj\Debug\CashRegisterSystem.Form1.resources
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\obj\Debug\CashRegisterSystem.Properties.Resources.resources
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\obj\Debug\CashRegisterSystem.csproj.GenerateResource.cache
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\obj\Debug\CashRegisterSystem.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\obj\Debug\CashRegisterSystem.exe
+C:\Users\Stanislav\source\repos\CashRegisterSystem\CashRegisterSystem\obj\Debug\CashRegisterSystem.pdb
